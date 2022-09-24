@@ -1,14 +1,12 @@
 #include <stdio.h>
-
 /**
- * Whether in word or in code
- * 
- * Do all in the Name of Jesus
+ * main - Entry point
  *
- * Giving thanks to the Father through Him\
+ * Return: Always 0 (Success)
  */
-int main (void)
+
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle\n");
-	return 0;
+	return (0);
 }
