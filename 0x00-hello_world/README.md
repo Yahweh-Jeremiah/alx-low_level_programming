@@ -1,1 +1,1 @@
-Run a C file through the preprocessor
+Run a C file through the preprocessorComile a C file without linking
