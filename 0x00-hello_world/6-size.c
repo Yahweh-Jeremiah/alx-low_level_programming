@@ -14,18 +14,11 @@ int main(void)
         long int longintType;
         long long int longlongintType;
 
-/**
- * Whether in word
- * or in code
- * do all in The NAme Of Jesus
- * giving Thamks to GOD THE FATHER
- * through Him
- */
-        printf("size of a char: %d bytes(s)\n", sizeof(charType));
-        printf("size of a int: %d bytes(s)\n", sizeof(intType));
-        printf("size of a long int: %d bytes(s)\n", sizeof(longintType));
-        printf("size of a long long int: %d bytes(s)\n", sizeof(longlongintType));
-        printf("size of a float: %d bytes(s)\n", sizeof(floatType));
+        printf(stderr, "size of a char: %d bytes(s)\n", sizeof(charType));
+        printf(stderr, "size of a int: %d bytes(s)\n", sizeof(intType));
+        printf(stderr, "size of a long int: %d bytes(s)\n", sizeof(longintType));
+        printf(stderr, "size of a long long int: %d bytes(s)\n", sizeof(longlongintType));
+        printf(stderr, "size of a float: %d bytes(s)\n", sizeof(floatType));
 
 	return (0);
 }
