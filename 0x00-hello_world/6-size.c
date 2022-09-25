@@ -11,7 +11,7 @@ int main(void)
 	char chartype;
 	int inttype;
 	long int longinttype;
-	float floattype
+	float floattype;
 
 	printf("Size of a char: %d\n", sizeof(chartype));
 	printf("Size of a int: %d\n", sizeof(inttype));
