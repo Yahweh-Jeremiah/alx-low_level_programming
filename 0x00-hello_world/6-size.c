@@ -9,10 +9,10 @@
 int main(void)
 {
         int intType;
-        float floatType
-        char charType
-        long int longintType
-        long long int longlongintType
+        float floatType;
+        char charType;
+        long int longintType;
+        long long int longlongintType;
 
 /**
  * Whether in word
